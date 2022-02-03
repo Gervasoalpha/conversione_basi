@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\c#\conversione_basi\bin\Debug\net5.0\conversione_basi.exe
+C:\Users\User\Desktop\c#\conversione_basi\bin\Debug\net5.0\conversione_basi.deps.json
+C:\Users\User\Desktop\c#\conversione_basi\bin\Debug\net5.0\conversione_basi.runtimeconfig.json
+C:\Users\User\Desktop\c#\conversione_basi\bin\Debug\net5.0\conversione_basi.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\conversione_basi\bin\Debug\net5.0\conversione_basi.dll
+C:\Users\User\Desktop\c#\conversione_basi\bin\Debug\net5.0\ref\conversione_basi.dll
+C:\Users\User\Desktop\c#\conversione_basi\bin\Debug\net5.0\conversione_basi.pdb
+C:\Users\User\Desktop\c#\conversione_basi\obj\Debug\net5.0\conversione_basi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\conversione_basi\obj\Debug\net5.0\conversione_basi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\conversione_basi\obj\Debug\net5.0\conversione_basi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\conversione_basi\obj\Debug\net5.0\conversione_basi.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\conversione_basi\obj\Debug\net5.0\conversione_basi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\conversione_basi\obj\Debug\net5.0\conversione_basi.dll
+C:\Users\User\Desktop\c#\conversione_basi\obj\Debug\net5.0\ref\conversione_basi.dll
+C:\Users\User\Desktop\c#\conversione_basi\obj\Debug\net5.0\conversione_basi.pdb
+C:\Users\User\Desktop\c#\conversione_basi\obj\Debug\net5.0\conversione_basi.genruntimeconfig.cache
