@@ -9,7 +9,7 @@ namespace conversione_basi
 
             cb num = new cb();
             Console.Clear();
-            num.set(1011.1001,5);
+            num.set(1011.1001,2);
 
             num.print();
 
